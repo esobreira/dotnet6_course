@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:dotnet6_course}/db/products.db",
+            "name": "products"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
